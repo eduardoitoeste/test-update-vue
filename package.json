@@ -1,6 +1,8 @@
 {
-  "name": "electron-auto-update-example",
-  "version": "0.0.7",
+  "name": "iea-panel",
+  "version": "0.0.8",
+  "author": "eduardoitoeste",
+  "description": "panel de auto gestion iea",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
